@@ -7,14 +7,14 @@
 
 # Site settings
 title:       tylerweidel
-email:       ''
+email:       'tyler@tylerweidel.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site https://type-jekyll.aspirethemes.com/
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+twitter:     'https://twitter.com/tylerweidel'
+github:      'https://github.com/tylerweidel'
+instagram:   'https://www.instagram.com/tylerweidel/'
+linkedin:    'https://www.linkedin.com/in/tylerweidel/'
 
 markdown:  kramdown
 permalink: pretty
