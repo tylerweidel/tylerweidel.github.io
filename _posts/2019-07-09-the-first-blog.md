@@ -2,7 +2,7 @@
 layout: post
 title: The first blog
 tags: [frontpage, jekyll, blog]
-image: '/images/posts/8.jpg'
+image: '/images/posts/2019-07-09-1.jpg'
 ---
 
 The first blog of many...
